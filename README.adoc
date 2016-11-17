@@ -1,0 +1,6 @@
+= DeskOS: mpg123 RPM
+
+This is the _mpg123_ RPM package for the *DeskOS* operating system.
+
+Upstream comes from the NUX Dextop 7:
+http://li.nux.ro/download/nux/dextop/el7/SRPMS/mpg123-1.15.1-1.el7.nux.src.rpm[mpg123-1.15.1-1.el7.nux.src.rpm]

@@ -4,7 +4,7 @@
 
 Name:           mpg123
 Version:        1.15.1
-Release:        1%{?dist}
+Release:        2%{?dist}
 Summary:        MPEG audio player
 Group:          Applications/Multimedia
 License:        GPLv2+ and LGPLv2
@@ -161,6 +161,9 @@ fi
 
 
 %changelog
+* Thu Nov 17 2016 Ricardo Arguello <rarguello@deskosproject.org> - 1.15.1-2
+- Rebuilt for DeskOS
+
 * Sun Mar 10 2013 Hans de Goede <j.w.r.degoede@gmail.com> - 1.15.1-1
 - New upstream release 1.15.1 (rf#2716)
 - Drop obsolete esound and arts plugins from mpg123-plugins-extras
